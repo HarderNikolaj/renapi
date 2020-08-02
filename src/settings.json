@@ -1,0 +1,10 @@
+{
+    "secret": "yolo",
+    "tokenLifespan": "7",
+    "database": "mongodb://localhost:27017",
+    "fileStorage": "./files",
+    "subfolders": {
+        "projects": "/projects/",
+        "images": "/images/"
+    }
+}
